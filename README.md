@@ -7,3 +7,8 @@ php -S localhost:8080
 
 
 
+
+http://localhost:4566/my-php-bucket
+
+
+
